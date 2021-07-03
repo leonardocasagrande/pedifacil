@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524153847484",
+    "project_id": "pedifacil-65e3b",
+    "storage_bucket": "pedifacil-65e3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524153847484:android:93893528b5c9cce97adab9",
+        "android_client_info": {
+          "package_name": "com.example.pedifacil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524153847484-jbj21mddgi2u1g51o7op4dcnk2vcjtcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pedifacil",
+            "certificate_hash": "fe048ae55a0afeeb65e712639dc808e71deed736"
+          }
+        },
+        {
+          "client_id": "524153847484-ee82qkvevcc8l6d7jr2jrgogcnnaghdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSUukztuElDTIsk1pStaCTWlS_HZsLWOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524153847484-ee82qkvevcc8l6d7jr2jrgogcnnaghdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
